@@ -121,9 +121,9 @@ LUG 一般由相应城市或高校的 GNU/Linux 爱好者发起，目的是互�
 
 ### 社团名字
 
-中文：开源软件协会
-英文：Open Source Association
-简称：OSA
+- **中文:** 开源软件协会
+- **英文:** Open Source Association
+- **简称:** OSA
 
 ### 活动举办
 
